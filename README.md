@@ -1,6 +1,6 @@
 # Steam Haptics Singer For Android
 
-Uhh not really anything too big just kind of uses [https://github.com/CrazyCritic89/SteamHapticsSinger](CrazyCritic89's) haptic singer code under a android application to make the steam controller sing on an android device
+Uhh not really anything too big just kind of uses [CrazyCritic89's](https://github.com/CrazyCritic89/SteamHapticsSinger) haptic singer code under a android application to make the steam controller sing on an android device
 
 ### Android 15+
 
