@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<usb-device vendor-id="10462" product-id="4353" /> <!-- 0x28DE / 0x1101 Steam Controller -->
+	<usb-device vendor-id="10462" product-id="4354" /> <!-- 0x28DE / 0x1102 Steam Controller (2015) wired -->
+	<usb-device vendor-id="10462" product-id="4418" /> <!-- 0x28DE / 0x1142 Steam Dongle -->
+	<usb-device vendor-id="10462" product-id="4866" /> <!-- 0x28DE / 0x1302 Steam Controller (2026) -->
+	<usb-device vendor-id="10462" product-id="4868" /> <!-- 0x28DE / 0x1304 Steam Puck -->
+	<usb-device vendor-id="10462" product-id="4613" /> <!-- 0x28DE / 0x1205 Steam Deck -->
+</resources>
